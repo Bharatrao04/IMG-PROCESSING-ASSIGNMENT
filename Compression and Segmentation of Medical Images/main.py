@@ -1,5 +1,5 @@
-# Name         : Tushar
-# Roll No      : 2301010462
+# Name         : Bharat
+# Roll No      : 2301010456
 # Course       : Image Processing & Computer Vision
 # Assignment   : Compression and Segmentation of Medical Images using Python
 
